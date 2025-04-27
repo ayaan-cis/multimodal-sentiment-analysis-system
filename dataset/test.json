@@ -1,0 +1,16 @@
+[
+  {
+    "id": "sample_6",
+    "text": "The weather is mild today.",
+    "image_path": "dataset/images/neutral_6.jpg",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "id": "sample_7",
+    "text": "This is terrible, I'm very disappointed.",
+    "image_path": "dataset/images/negative_7.jpg",
+    "sentiment": "negative",
+    "sentiment_score": -1.0
+  }
+]

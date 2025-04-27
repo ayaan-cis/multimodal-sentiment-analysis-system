@@ -1,0 +1,11 @@
+{
+  "description": "Sample dataset for multimodal sentiment analysis",
+  "size": 9,
+  "train_size": 7,
+  "test_size": 2,
+  "classes": [
+    "positive",
+    "neutral",
+    "negative"
+  ]
+}

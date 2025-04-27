@@ -1,0 +1,51 @@
+[
+  {
+    "id": "sample_8",
+    "text": "Feeling down today, nothing is going right.",
+    "image_path": "dataset/images/negative_8.jpg",
+    "sentiment": "negative",
+    "sentiment_score": -1.0
+  },
+  {
+    "id": "sample_1",
+    "text": "This is amazing! I'm having a great time.",
+    "image_path": "dataset/images/positive_1.jpg",
+    "sentiment": "positive",
+    "sentiment_score": 1.0
+  },
+  {
+    "id": "sample_9",
+    "text": "So upset with how this turned out.",
+    "image_path": "dataset/images/negative_9.jpg",
+    "sentiment": "negative",
+    "sentiment_score": -1.0
+  },
+  {
+    "id": "sample_5",
+    "text": "Regular day at work, same as usual.",
+    "image_path": "dataset/images/neutral_5.jpg",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "id": "sample_3",
+    "text": "So happy with how this turned out!",
+    "image_path": "dataset/images/positive_3.jpg",
+    "sentiment": "positive",
+    "sentiment_score": 1.0
+  },
+  {
+    "id": "sample_4",
+    "text": "This is what I expected, nothing special.",
+    "image_path": "dataset/images/neutral_4.jpg",
+    "sentiment": "neutral",
+    "sentiment_score": 0.0
+  },
+  {
+    "id": "sample_2",
+    "text": "Feeling wonderful today, everything is perfect!",
+    "image_path": "dataset/images/positive_2.jpg",
+    "sentiment": "positive",
+    "sentiment_score": 1.0
+  }
+]
